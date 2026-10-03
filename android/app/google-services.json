@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692600916897",
+    "project_id": "arillo-advmblprog",
+    "storage_bucket": "arillo-advmblprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692600916897:android:135d5eafe91b8f271659e0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UXkAeMK02zt3A0tjkm7coQndu7XqpWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
